@@ -1,0 +1,14 @@
+.ClusterInputs{
+  display: flex;
+  flex-direction: column;
+  width: 500px
+}
+
+.ConfirmButton {
+  float: right;
+}
+
+
+.ClusterInputs * {
+  margin-top: 1em;
+}

@@ -1,0 +1,11 @@
+.ClusterCard {
+  min-width: 25%;
+  overflow: hidden;
+  font-size: calc(6px + 2vmin);
+  margin-top: 1em;
+  margin-left: 2em;
+}
+
+.NameField {
+  float: right;
+}

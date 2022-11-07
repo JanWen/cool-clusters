@@ -1,0 +1,15 @@
+.DeleteButton {
+  float: right;
+}
+
+.ExitButton {
+  float: left;
+}
+
+.SaveButton {
+  float: left;
+}
+
+Button {
+  margin: 0.5em;
+}

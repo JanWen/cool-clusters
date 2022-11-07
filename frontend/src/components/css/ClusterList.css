@@ -1,0 +1,19 @@
+.ClusterList {
+  width: 60%;
+  margin: auto auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.ClusterDetails{
+  margin: 1em;
+}
+
+.ManageButton {
+  font-weight: bold;
+  margin-top: 1em;
+}

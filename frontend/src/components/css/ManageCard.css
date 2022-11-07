@@ -1,0 +1,19 @@
+.ManageCard {
+  width: 40%;
+  margin: auto;
+}
+
+.Editable {
+  width: 10em;
+}
+
+.TextInput {
+  border: none;
+  color: blue;
+  background-color: white;
+}
+
+.Dialog {
+  text-align: center;
+  font-size: larger;
+}
